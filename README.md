@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav120
 - 👀 I’m interested in machine learning, AI,some more
-- 🌱 I’m currently learning B.E (AIML)
+- 🌱 I’m currently learning B.Tech (AIML)
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me abhinav.sahu.cs.20@ggits.net
 
